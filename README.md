@@ -13,3 +13,4 @@ Front-end (Client) --------------->> API ----------------->> Back-end (Server)
                                                                     V
                                                    
                                                                  Database
+#Sinovuyo Lumka has made changes
